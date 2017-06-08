@@ -15,6 +15,7 @@
 <plugin name="cordova-plugin-inappbrowser" spec="1.4.0"/>
 <plugin name="cordova-plugin-dialogs" spec="1.2.1"/>
 <plugin name="cordova-plugin-legacy-whitelist" spec="1.1.1"/>
+<plugin spec="https://github.com/jverlee/cordova-plugin-inappbrowser-camera.git" version="1.1.0" source="git" />
 <platform name="android" >
 <icon density="mdpi" src="www/res/icon/android/mipmap-mdpi/ic_launcher.png" />
 <icon density="hdpi" src="www/res/icon/android/mipmap-hdpi/ic_launcher.png" />
